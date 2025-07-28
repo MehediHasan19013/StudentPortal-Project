@@ -26,26 +26,8 @@ A simple **ASP.NET Core MVC** CRUD application to manage student information.
 
 ## 🏗 Project Structure
 
-StudentPortal Project
-│
-├── Controllers
-│ └── StudentsController.cs
-│
-├── Models
-│ └── Student.cs
-│
-├── Views
-│ └── Students
-│ ├── Index.cshtml
-│ ├── Create.cshtml
-│ ├── Edit.cshtml
-│ └── Delete.cshtml
-│
-├── Data
-│ └── ApplicationDbContext.cs
-│
-├── appsettings.json
-└── Startup.cs / Program.cs
+<img width="860" height="474" alt="image" src="https://github.com/user-attachments/assets/e8f4291f-ed29-4eed-9d81-49de24dfbb7e" />
+
 
 📷 Screenshots
 Homepage:
