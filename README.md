@@ -30,6 +30,7 @@ A simple **ASP.NET Core MVC** CRUD application to manage student information.
 
 
 📷 Screenshots
+
 Homepage:
 <img width="1366" height="476" alt="1net" src="https://github.com/user-attachments/assets/149938d2-32e9-43a6-8aef-f489d288a6dd" />
 All student:
